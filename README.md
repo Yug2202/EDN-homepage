@@ -1,1 +1,1 @@
-# EDN2-homepage
+# EDN-homepage
